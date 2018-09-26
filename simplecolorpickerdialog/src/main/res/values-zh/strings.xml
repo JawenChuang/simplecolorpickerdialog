@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">颜色选择</string>
+    <string name="cpv_custom">自定义</string>
+    <string name="cpv_default_title">选择颜色</string>
+    <string name="cpv_presets">默认</string>
+    <string name="cpv_select">选择</string>
+    <string name="cpv_transparency">透明度</string>
+</resources>
