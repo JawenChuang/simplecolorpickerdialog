@@ -1,4 +1,4 @@
-# simpleandroidcolorpicker
+# simplecolorpickerdialog
 选择颜色对话框 
 -----
 A dialog to select color.
