@@ -5,11 +5,11 @@ A dialog to select color.
 
 默认
 
-![image](https://github.com/JawenChuang/simpleandroidcolorpicker/blob/master/imgfolder/preset.png)
+![image](https://github.com/JawenChuang/simplecolorpickerdialog/blob/master/imgfolder/preset.png)
 
 自定义
 
-![image](https://github.com/JawenChuang/simpleandroidcolorpicker/blob/master/imgfolder/custom.png)
+![image](https://github.com/JawenChuang/simplecolorpickerdialog/blob/master/imgfolder/custom.png)
 
 
 How to add dependency?
