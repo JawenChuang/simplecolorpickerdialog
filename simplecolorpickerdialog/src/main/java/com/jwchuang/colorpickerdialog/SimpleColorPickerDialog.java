@@ -182,7 +182,6 @@ public class SimpleColorPickerDialog extends DialogFragment implements OnTouchLi
         }
 
         AlertDialog dialog = builder.create();
-        dialog.getButton(dialog.BUTTON_POSITIVE).setTextColor(Color.BLACK);
         dialog.setCanceledOnTouchOutside(true);
         dialog.setCancelable(true);
 
