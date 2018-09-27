@@ -71,14 +71,14 @@ Usage
         @Override
         public void onColorSelected(int dialogId, @ColorInt int color) {
             if (dialogId == DIALGE_ID) {
-                Toast.makeText(MainActivity.this, Integer.toString(color), Toast.LENGTH_LONG);
+       
             }
         }
 
         @Override
         public void onDialogDismissed(int dialogId) {
             if (dialogId == DIALGE_ID) {
-                Toast.makeText(MainActivity.this, "dismiss", Toast.LENGTH_LONG);
+   
             }
         }
     };
